@@ -7,5 +7,9 @@ Angular framework + node.js backend
 SASS + Typescript
 
 How to deploy:
-cd bitlink-app
-`ng server --open`
+
+`cd bitlink-app`
+
+`npm install` to get required dependencies
+
+`ng serve --open` to open the app in the web browser
