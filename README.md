@@ -21,6 +21,5 @@ then navigate to bitlink-app's parent directory in another terminal:
 
 `npx ts-node server/server.ts`
 
-Deployed on a DigitalOcean Ubuntu instance, using Nginx as a reverse proxy and accessible at: 137.184.186.52:4200.
+Deployed on a DigitalOcean Ubuntu instance and accessible at: 137.184.186.52:4200.
 We had to reconfigure the routing and redownloading the packages through npm.
-
