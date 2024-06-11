@@ -21,5 +21,9 @@ then navigate to bitlink-app's parent directory in another terminal:
 
 `npx ts-node server/server.ts`
 
-Deployed on a DigitalOcean Ubuntu instance, using Nginx as a reverse proxy and accessible at: 137.184.186.52:4200.
+Deployed on a DigitalOcean Ubuntu instance, using Nginx as a reverse proxy and accessible at: [137.184.186.52:4200](https://137.184.186.52/).
 We had to reconfigure the routing and redownloading the packages through npm.
+
+A test account that can be used for login is:
+Username: jchan20@uci.edu
+Password: tester123
